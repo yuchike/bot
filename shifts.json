@@ -1,0 +1,67 @@
+[
+  {
+    "date": "12/29",
+    "start": "17:39",
+    "end": "17:40",
+    "type": "通常運行",
+    "hostId": "1455086750668951612",
+    "mentionId": "1156490537197637712",
+    "notified": true
+  },
+  {
+    "date": "12/29",
+    "start": "17:53",
+    "end": "17:54",
+    "type": "通常運行",
+    "hostId": "1455086750668951612",
+    "link": "https://www.roblox.com/ja/games/115219952975974/unnamed",
+    "mentionId": "1156490537197637712",
+    "notified": true
+  },
+  {
+    "date": "12/29",
+    "start": "20:00",
+    "end": "20:10",
+    "duration": "0.16666666666666666 hour(s)",
+    "type": "てすと",
+    "hostId": "1156490537197637712",
+    "link": "https://www.roblox.com/ja/games/115219952975974/unnamed",
+    "mentionId": "1156490537197637712",
+    "notified": false
+  },
+  {
+    "date": "12/29",
+    "start": "18:05",
+    "end": "18:10",
+    "type": "tesuto",
+    "hostId": "1455086750668951612",
+    "link": "https://www.roblox.com/ja/games/115219952975974/unnamed",
+    "mentionId": "1455086750668951612",
+    "notes": "-",
+    "notified": true
+  },
+  {
+    "date": "12/29",
+    "start": "18:15",
+    "end": "18:20",
+    "type": "うんこう",
+    "hostId": "1156490537197637712",
+    "link": "https://www.roblox.com/ja/games/115219952975974/unnamed",
+    "mentionId": "1455086750668951612",
+    "notes": "-",
+    "notified": true,
+    "planMessageId": "1455125972595507366"
+  },
+  {
+    "date": "12/29",
+    "start": "19:00",
+    "end": "20:00",
+    "type": "最終テスト",
+    "hostId": "1156490537197637712",
+    "link": "https://www.roblox.com/ja/games/115219952975974/unnamed",
+    "notes": "-",
+    "mentionId": "1156490537197637712",
+    "notified": true,
+    "planMessageId": "1455135430059102311"
+  }
+]
